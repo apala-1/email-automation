@@ -1,0 +1,6 @@
+Hi {{name}},
+
+We’re excited to have you with us. This is your personalized onboarding email.
+
+Cheers,
+Team
